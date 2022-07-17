@@ -1,0 +1,24 @@
+{
+  "name": "fuck.js",
+  "version": "0.0.0",
+  "description": "A JavaScript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaderBC/fuck.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "fuck.js",
+    "fuckingJS"
+  ],
+  "author": "Bartłomiej Strama",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/BaderBC/fuck.js/issues"
+  },
+  "homepage": "https://github.com/BaderBC/fuck.js#readme"
+}
