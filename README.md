@@ -1,6 +1,6 @@
-# Fuck.js
+# Stupid.js
 A JavaScript library
 
 ## How to use:
-- npm i fuck.js
-- ```require('fuck.js')();```
+- npm i stupid.js
+- ```require('stupid.js')();```
