@@ -1,5 +1,5 @@
 {
-  "name": "fuck.js",
+  "name": "stupidjs",
   "version": "0.0.0",
   "description": "A JavaScript library",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BaderBC/fuck.js.git"
+    "url": "git+https://github.com/BaderBC/stupid.js.git"
   },
   "keywords": [
     "JavaScript",
@@ -18,7 +18,7 @@
   "author": "Bartłomiej Strama",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/BaderBC/fuck.js/issues"
+    "url": "https://github.com/BaderBC/stupid.js/issues"
   },
-  "homepage": "https://github.com/BaderBC/fuck.js#readme"
+  "homepage": "https://github.com/BaderBC/stupid.js#readme"
 }
